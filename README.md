@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align:"center">Hi, I'm Carlos Aguilar...</h1>
 
-<!--
-**carlos-3196/carlos-3196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 5+ years of experience building modern web applications and enterprise solutions.  
+Most of my work has focused on frontend engineering, while also contributing to backend development and full-stack features when needed.
 
-Here are some ideas to get you started:
+## 🚀 Frontend Technologies
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 UI Libraries & Frameworks
+- Radix UI
+- AG Grid
+- Kendo UI
+- Bootstrap
+- Material UI
+- Additional modern component libraries and design systems
+
+## 🧠 State Management
+- Zustand
+- Redux
+
+## 🧪 Testing
+- Jest
+
+## ⚙️ Backend Experience
+- C#
+- JavaScript / Node.js
+
+## 📌 About Me
+I enjoy building scalable, responsive, and maintainable applications with a strong focus on user experience, performance, and clean architecture.  
+Currently expanding my skills into cloud infrastructure, DevOps, and modern deployment workflows.
+
+---
+⭐ Always learning, building, and improving.
