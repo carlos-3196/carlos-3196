@@ -1,4 +1,6 @@
-<h1 align:"center">Hi, I'm Carlos Aguilar...</h1>
+<div align="center">
+  <h1>Hi, I'm Carlos Aguilar...</h1>
+</div>
 
 Frontend Developer with 5+ years of experience building modern web applications and enterprise solutions.  
 Most of my work has focused on frontend engineering, while also contributing to backend development and full-stack features when needed.
@@ -35,4 +37,10 @@ I enjoy building scalable, responsive, and maintainable applications with a stro
 Currently expanding my skills into cloud infrastructure, DevOps, and modern deployment workflows.
 
 ---
-⭐ Always learning, building, and improving.
+### Connect With Me
+<a href="https://www.linkedin.com/in/juan-carlos-aguilar-03721052/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+</a>
+<br/>
+<br/>
+Always learning, building, and improving.
